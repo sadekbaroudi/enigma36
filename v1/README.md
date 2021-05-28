@@ -1,6 +1,6 @@
 # enigma36 v1
 
-![First build](v1/images/PXL_20210518_204850979.jpg)
+![First build](images/PXL_20210518_204850979.jpg)
 
 
 # 3D Printing
