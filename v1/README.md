@@ -1,9 +1,5 @@
 # enigma36 v1
 
-![Second build 1](images/open-1.jpg)
-![Second build 2](images/open-2.jpg)
-![First build](images/PXL_20210518_204850979.jpg)
-
 
 # 3D Printing
 
@@ -23,5 +19,9 @@ Note that the joystick version uses the PSP1000 joystick. You can buy these pret
 
 Look through the images directory for pictures of my first build assembly.
 
+# Pictures
 
+![Second build 1](images/open-1.jpg)
+![Second build 2](images/open-2.jpg)
+![First build](images/PXL_20210518_204850979.jpg)
 
